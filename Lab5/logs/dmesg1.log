@@ -1,0 +1,2 @@
+[  117.459141] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-9c9eefce-07b9-4d79-b091-26a5ee9c86a9.scope,task=mem.bash,pid=2149,uid=1000
+[  117.459157] Out of memory: Killed process 2149 (mem.bash) total-vm:3884628kB, anon-rss:1679232kB, file-rss:128kB, shmem-rss:0kB, UID:1000 pgtables:7640kB oom_score_adj:0
